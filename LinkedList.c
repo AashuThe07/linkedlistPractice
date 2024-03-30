@@ -30,7 +30,8 @@ int main(int argc, char *argv[])
 		list = n;
 
 	}
-
+	printf("List Updated...");
+	printf("Printing Results");
 	node *ptr = list;
 	while (ptr != NULL)
 	{
